@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591290530 source:c:\users\radost\documents\codeblocks\cwp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
