@@ -10,6 +10,7 @@
 5. The data should be maintained in a dynamic structure.
 
 ### Screenshots of the program: 
+**Note** *in the next screens the word 'fail' refers to file*
 ![image](https://user-images.githubusercontent.com/87697061/167210540-d0bdfd46-7d97-4436-b7fe-da4c192d80a4.png)
 ![image](https://user-images.githubusercontent.com/87697061/167210553-d2a8dd86-58e7-40ca-a690-9b367dd5a7ba.png)
 ![case0](https://user-images.githubusercontent.com/87697061/167210574-5edde949-aa5e-444b-b686-61ff275fc745.png)
