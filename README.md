@@ -1,4 +1,4 @@
-# Firm
+# Firm info
 
 *This app was made in C in my first year of uni in Code::Blocks as part of a project for one of the courses.*
 
