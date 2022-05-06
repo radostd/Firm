@@ -10,4 +10,11 @@
 5. The data should be maintained in a dynamic structure.
 
 ### Screenshots of the program: 
-
+![image](https://user-images.githubusercontent.com/87697061/167210540-d0bdfd46-7d97-4436-b7fe-da4c192d80a4.png)
+![image](https://user-images.githubusercontent.com/87697061/167210553-d2a8dd86-58e7-40ca-a690-9b367dd5a7ba.png)
+![case0](https://user-images.githubusercontent.com/87697061/167210574-5edde949-aa5e-444b-b686-61ff275fc745.png)
+![case1](https://user-images.githubusercontent.com/87697061/167210607-37a01865-d38c-4bad-9c28-a2bcd02a3d50.png)
+![case2](https://user-images.githubusercontent.com/87697061/167210645-d4313aa5-5f76-4a28-b5e4-9846a591b157.png)
+![case3](https://user-images.githubusercontent.com/87697061/167210658-0a82f217-49b1-4027-8c0d-edc41b5189f9.png)
+![case4](https://user-images.githubusercontent.com/87697061/167210685-11bba3d3-c26d-4b94-b2fe-1cdba2098f29.png)
+![case5](https://user-images.githubusercontent.com/87697061/167210693-b0691d4f-6b42-45ee-9b9b-6fb9a30b167a.png)
